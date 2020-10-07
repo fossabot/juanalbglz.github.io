@@ -1,1 +1,11 @@
+body{
+    background: linear-gradient(-45deg, rgba(0,0,0,0.5) 50%,rgba(255,0,0,0.5) 50%, rgba(255,0,0,0.5) 100%);
+}
 
+img{
+    width: 100%;
+    height: auto;
+    max-width: 768px;
+    display: block;
+    margin: auto;
+}
